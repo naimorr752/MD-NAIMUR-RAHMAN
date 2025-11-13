@@ -1,0 +1,5 @@
+{
+  "name": "Copy of UltiMail",
+  "description": "A fully functional, mobile-friendly temporary email web app. It automatically generates a temp email, fetches emails periodically, and displays them in a clean inbox. Features include Dark Mode, Copy to Clipboard, and auto-refresh.",
+  "requestFramePermissions": []
+}
